@@ -27,7 +27,7 @@ Building intelligent applications, experimenting with AI agents, and turning ide
 **Frontend & Backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vite" />
 </p>
 
 **Cloud & Database**
