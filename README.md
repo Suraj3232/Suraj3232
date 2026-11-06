@@ -47,7 +47,6 @@ Building intelligent applications, experimenting with AI agents, and turning ide
 ## 🔥 Featured Projects
 
 * 🖥️ **PC Watch 2.0** — Smart campus PC monitoring system.
-* 🤖 **AutoBiz AI** — AI-powered business assistant with multiple agents.
 * 🌱 **FarmDirect** — Blockchain-powered farm-to-consumer marketplace.
 * 🔥 **StreakForge** — Gamified habit tracking platform.
 
