@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Suraj Kolpe
+# I'm Suraj Kolpe
 
 ### AI Engineer in Progress | Full-Stack Developer | Tech Enthusiast
 
