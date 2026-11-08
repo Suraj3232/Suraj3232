@@ -46,7 +46,7 @@ Building intelligent applications, experimenting with AI agents, and turning ide
 
 ## 🔥 Featured Projects
 
-* 🖥️ **PC Watch 2.0** — Smart campus PC monitoring system.
+* 🖥️ **PC Watch 2.0** — Smart campus PC status monitoring system.
 * 🌱 **FarmDirect** — Blockchain-powered farm-to-consumer marketplace.
 * 🔥 **StreakForge** — Gamified habit tracking platform.
 
