@@ -8,7 +8,7 @@ Building intelligent applications, experimenting with AI agents, and turning ide
 
 ## 🚀 About Me
 
-* 🔭 Currently building **PC Watch 2.0** and AI-powered applications.
+* 🔭 Currently building **PC Watch 2.0** and AI-powered applications exe.
 * 🧠 Exploring **AI Engineering, Agentic AI, and System Design**.
 * 🌱 Learning **DSA, Cloud Computing, and scalable architecture**.
 * 💻 Interested in **Full-Stack Development, AI/ML, and Open Source**.
